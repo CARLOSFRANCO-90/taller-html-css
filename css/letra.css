@@ -1,0 +1,19 @@
+/*Selector de elemento*/
+
+p {
+    color: rgb(34, 34, 44);
+    font-size: 30;
+}
+
+/*Selector de desendente*/
+p span{
+    font-weight: bold;
+    font-style: italic;
+    color: darkblue;
+    text-decoration: underline;
+}
+
+/*Selector de clase*/
+.lineas{
+    color: rgb(255, 0, 85);
+}
